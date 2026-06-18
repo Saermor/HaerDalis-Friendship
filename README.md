@@ -11,7 +11,6 @@ Baldur's Gate Trilogy and EET<h3>
 
 
 **Author:** Aeryn  
-**Mod Website:** <a href="http://www.spellholdstudios.net/ie/npciep">Spellhold Studios</a>  
 **Mod Forum:** <a href="http://www.shsforums.net/index.php?showforum=643">Haer'dalis Friendship</a><br /><br />
 
 
@@ -30,7 +29,7 @@ One of the things many find sorely lacking in the Bioware NPCs are the more comp
 This mod adds a series of dialogues with Haer'dalis.
 
 
-Visit the <a href="http://www.spellholdstudios.net/ie/npciep">website</a> or <a href="http://www.shsforums.net/index.php?showforum=643">forum</a> for all the latest updates.
+Visit the <a href="http://www.shsforums.net/index.php?showforum=643">forum</a> for all the latest updates.
 
 
 <hr>
@@ -87,7 +86,7 @@ In addition to the methods above for removing individual components, you can com
 ## <a name="faq" id="faq"></a>Frequently Asked Questions
 
 **Q: Is the Haer'dalis Friendship compatible with XYZ mod?**  
-A: It most certainly should be, but we have not tested it with every single mod available. If you do encounter an error, please contact <a href="kae@spellholdstudios.net">K'aeloree</a> or alternatively post on the <a href="http://www.shsforums.net">forums</a>.
+A: It most certainly should be, but we have not tested it with every single mod available. If you do encounter an error, please report it on the <a href="http://www.shsforums.net">forums</a>.
 
 **Q: Is it compatible with Aeryn's Haer'dalis romance?**  
 A: Yes, as there are significant similarities between the two mods. Depending on where you break off your romance with Haer'dalis, the friendship will immediately begin at the appropriate point in the track.
